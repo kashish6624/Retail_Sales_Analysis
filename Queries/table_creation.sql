@@ -11,7 +11,7 @@ Create TABLE retail_raw(
 )
 
 copy retail_raw
-from 'E:/project_datasets&nbs/SQL projects/datasets/retail_sales_dataset.csv'
+from 'path/to/dataset'
 DELIMITER ','
 CSV HEADER;
 
