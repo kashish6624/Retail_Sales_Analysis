@@ -53,6 +53,6 @@ Customer purchasing behavior follows identifiable seasonal demand patterns.
 Business Recommendation:
 Increase inventory levels, marketing spend, and promotional campaigns ahead of peak periods to maximize revenue.
 
-🧠 Executive Summary
+## Executive Summary
 
 The analysis indicates that revenue is primarily driven by older customer segments and high-performing product categories. Seasonal sales behavior highlights opportunities for optimized marketing timing, while customer segmentation and cross-selling strategies present strong avenues for future revenue growth.
