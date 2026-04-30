@@ -70,17 +70,3 @@ The project uses a retail transaction dataset containing:
 - Revenue growth patterns
 
 ---
-
-## Key Business Insights
-
-### Customer Insights
-- Customers aged **30–45** contribute the highest revenue.
-- Certain customer segments present strong cross-selling opportunities.
-
-### Product Insights
-- The **Electronics** category generates the highest revenue.
-- Some categories sell large quantities but contribute less revenue, indicating pricing optimization opportunities.
-
-### Sales Performance Insights
-- Sales follow seasonal patterns across months.
-- Peak sales periods highlight ideal timing for promotions and inventory planning.
