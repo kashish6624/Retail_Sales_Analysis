@@ -16,13 +16,13 @@ ON c.transaction_id = s.transaction_id
 GROUP BY months
 ORDER BY months ASC;
 
-/*On which day were maximum sales recorded?*/
-SELECT EXTRACT(DAY from c.transaction_date) as Dates, 
+/*On which date were maximum sales recorded?*/
+SELECT transaction_date, 
         sum(s.total_amount) as revenue
 FROM customers as c
 JOIN sales as s
 on c.transaction_id = s.transaction_id
-GROUP BY Dates
+GROUP BY transaction_date
 ORDER BY revenue DESC
 LIMIT 1;
 
